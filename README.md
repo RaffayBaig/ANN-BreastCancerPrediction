@@ -14,6 +14,3 @@ Predict if a tumor is benign or malignant using an Artificial Neural Network.
 - Accuracy: 92%
 - Confusion matrix and classification report included
 
-**Run Notebook:**
-Click the badge to open in Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaffayBaig/ANN-BreastCancerPrediction/blob/main/BreastCancerClassification-ANN.ipynb)
