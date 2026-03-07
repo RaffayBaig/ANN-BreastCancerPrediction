@@ -16,4 +16,4 @@ Predict if a tumor is benign or malignant using an Artificial Neural Network.
 
 **Run Notebook:**
 Click the badge to open in Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/Breast-Cancer-ANN/blob/main/breast_cancer_ann.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaffayBaig/ANN-BreastCancerPrediction/blob/main/breast_cancer_ann.ipynb)
